@@ -6,13 +6,13 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
 
 ## Table of Contents
 
-- **[Problem Set 1: C](/C/pset1)** - [Assignments 1](https://cs50.harvard.edu/x/2020/psets/1/)
-  * [hello](/C/pset1/hello)
+- **[Problem Set 1: C](/C/Set1)** - [Assignments 1](https://cs50.harvard.edu/x/2020/psets/1/)
+  * [hello](/C/Set1/hello)
   * mario
-    + [less](/C/pset1/mario/less)
-    + [more](/C/pset1/mario/more)
-  * [cash](/C/pset1/cash)
-  * [credit](/C/pset1/credit)
+    + [less](/C/Set1/mario/less)
+    + [more](/C/Set1/mario/more)
+  * [cash](/C/Set1/cash)
+  * [credit](/C/Set1/crredit)
 
 - **[Problem Set 2: Crypto](/C/pset2)** - [Assignments 2](https://cs50.harvard.edu/x/2020/psets/2/)
   * [caesar](/C/pset2/caesar)
