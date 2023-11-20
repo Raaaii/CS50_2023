@@ -12,11 +12,14 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
 - **[Week1](/C/Week1)** - [Assignments 1](https://cs50.harvard.edu/x/2023/psets/1/), - [LAB_1](https://cs50.harvard.edu/x/2023/labs/1/)
    * [hello](/C/Week1/Problem_Sets/hello)
    *  mario
-    + [less](/C/Week1/Problem_Sets/mario/less)
-    + [more](/C/Week1/Problem_Sets/mario/more)
+        + [less](/C/Week1/Problem_Sets/mario/less)
+        +  [more](/C/Week1/Problem_Sets/mario/more)
   * [cash](/C/Week1/Problem_Sets/cash)
   * [credit](/C/Week1/Problem_Sets/crredit)
   * [Population LAB](/C/Week1/Lab/Population)
+
+
+- **[Week2](/C/Week2)** - [Assignments 2](https://cs50.harvard.edu/x/2023/psets/2/), - [LAB_1](https://cs50.harvard.edu/x/2023/labs/2/)
 
   - [Assignments 2](https://cs50.harvard.edu/x/2020/psets/2/)
   * [caesar](/C/Week2/Problem_Set/caesar)
