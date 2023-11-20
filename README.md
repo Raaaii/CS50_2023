@@ -7,7 +7,8 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
 - **[Lab and Problem sets done in C](/C)**
 
   
-- **[Week1](/C/Week1)** - [Assignments 1](https://cs50.harvard.edu/x/2023/psets/1/), - [LAB_1](https://cs50.harvard.edu/x/2023/labs/1/)
+- **[Week 1](/C/Week1)** - [Assignments 1](https://cs50.harvard.edu/x/2023/psets/1/), - [LAB_1](https://cs50.harvard.edu/x/2023/labs/1/)
+  
    * [hello](/C/Week1/Problem_Sets/hello)
    *  mario
         + [less](/C/Week1/Problem_Sets/mario/less)
@@ -17,23 +18,27 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
   * [Population LAB](/C/Week1/Lab/Population)
 
 
-- **[Week2](/C/Week2)** - [Assignments 2](https://cs50.harvard.edu/x/2023/psets/2/), - [LAB_1](https://cs50.harvard.edu/x/2023/labs/2/)
+- **[Week 2](/C/Week2)** - [Assignments 2](https://cs50.harvard.edu/x/2023/psets/2/), - [LAB_2](https://cs50.harvard.edu/x/2023/labs/2/)
 
-  - [Assignments 2](https://cs50.harvard.edu/x/2020/psets/2/)
-  * [caesar](/C/Week2/Problem_Set/caesar)
-  * [substitution](/C/Week2/Problem_Set/substitution)
-  * [readability](/C/Week2/Problem_Set/readability)
+  * [caesar](/C/Week2/Problem_Sets/caesar)
+  * [substitution](/C/Week2/Problem_Sets/substitution)
+  * [readability](/C/Week2/Problem_Sets/readability)
+  * [scrabble LAB](/C/Week2/Lab/scrabble)
 
-- **[Problem Set 3: Elections](/C/pset3)** - [Assignments 3](https://cs50.harvard.edu/x/2020/psets/3/)
-  * [plurality](/C/pset3/plurality)
-  * [runoff](/C/pset3/runoff)
-  * [tideman](/C/pset3/tideman)
+- **[Week 3](/C/Week3)** - [Assignments 3](https://cs50.harvard.edu/x/2023/psets/3/), - [LAB_2](https://cs50.harvard.edu/x/2023/labs/3/)
+  
+  * [plurality](/C/Week3/Problem_Sets/plurality)
+  * [runoff](/C/Week3/Problem_Sets/runoff)
+  * [tideman](/C/Week3/Problem_Sets/tideman)
+  * [Sort LAB](C/Week3/Lab/Sort)
 
-- **[Problem Set 4: Forensics](/C/pset4)** - [Assignments 4](https://cs50.harvard.edu/x/2020/psets/4/)
+- **[Week 4](/C/Week4)** - [Assignments 4](https://cs50.harvard.edu/x/2023/psets/4/), [LAB_2](https://cs50.harvard.edu/x/2023/labs/4/)
+  
   * filter
     + [less](/C/pset4/filter)
     + [more](/C/pset4/border-detection)
   * [recover](/C/pset4/recover)
+  * []
 
 - **[Problem Set 5: Speller](/C/pset5/speller)** - [Speller Assignment](https://cs50.harvard.edu/x/2020/psets/5/speller/)
   * [dictionary.c](/C/pset5/speller/dictionary.c)
