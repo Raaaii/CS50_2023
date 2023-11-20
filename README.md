@@ -35,10 +35,10 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
 - **[Week 4](/C/Week4)** - [Assignments 4](https://cs50.harvard.edu/x/2023/psets/4/), [LAB_2](https://cs50.harvard.edu/x/2023/labs/4/)
   
   * filter
-    + [less](/C/pset4/filter)
-    + [more](/C/pset4/border-detection)
-  * [recover](/C/pset4/recover)
-  * []
+    + [less](/C/Week4/Problem_Sets/filter)
+    + [more](/C/Week4/Problem_Sets/border-detection)
+  * [recover](/C/Week4/Problem_Sets/recover)
+  * [Volume LAB](C/Week4/Lab)
 
 - **[Problem Set 5: Speller](/C/pset5/speller)** - [Speller Assignment](https://cs50.harvard.edu/x/2020/psets/5/speller/)
   * [dictionary.c](/C/pset5/speller/dictionary.c)
