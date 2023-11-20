@@ -1,5 +1,3 @@
-# CS50 course 2023 
-
 # CS50 Introduction to Computer Science Solutions
 
 Welcome to my repository, where I share my solutions to Harvard University's [CS50 Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) assignments from 2023. I've created this space to document my progress throughout the course and provide a helpful resource for fellow students. If you have difficulties feel free to reach me via email.
