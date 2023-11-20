@@ -6,18 +6,19 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
 
 ## Table of Contents
 
-- **[Problem Set 1: C](/C/Set1)** - [Assignments 1](https://cs50.harvard.edu/x/2020/psets/1/)
-  * [hello](/C/Set1/hello)
+- **[Lab and Problem sets done in C](/C/Week1/Set1)** - [Assignments 1](https://cs50.harvard.edu/x/2020/psets/1/)
+  * [hello](/C/Week1/Set1/hello)
   * mario
-    + [less](/C/Set1/mario/less)
-    + [more](/C/Set1/mario/more)
-  * [cash](/C/Set1/cash)
-  * [credit](/C/Set1/crredit)
+    + [less](/C/Week1/Problem_Set/mario/less)
+    + [more](/C/Week1/Problem_Set/mario/more)
+  * [cash](/C/Week1/Problem_Set/cash)
+  * [credit](/C/Week1/Problem_Set/crredit)
+  * [Population](/C/Week1/Lab/Population) - [LAB_1](https://cs50.harvard.edu/x/2023/labs/1/)
 
-- **[Problem Set 2: Crypto](/C/pset2)** - [Assignments 2](https://cs50.harvard.edu/x/2020/psets/2/)
-  * [caesar](/C/pset2/caesar)
-  * [substitution](/C/pset2/substitution)
-  * [readability](/C/pset2/readability)
+- **[Problem Set 2: Crypto](/C/Week2/Problem_Set)** - [Assignments 2](https://cs50.harvard.edu/x/2020/psets/2/)
+  * [caesar](/C/Week2/Problem_Set/caesar)
+  * [substitution](/C/Week2/Problem_Set/substitution)
+  * [readability](/C/Week2/Problem_Set/readability)
 
 - **[Problem Set 3: Elections](/C/pset3)** - [Assignments 3](https://cs50.harvard.edu/x/2020/psets/3/)
   * [plurality](/C/pset3/plurality)
