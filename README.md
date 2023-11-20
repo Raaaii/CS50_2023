@@ -37,7 +37,7 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
   * filter
     + [less](/C/Week4/Problem_Sets/filter)
     + [more](/C/Week4/Problem_Sets/border-detection)
-  * [recover](/C/Week4/Problem_Sets/recover)
+  * [recovery](/C/Week4/Problem_Sets/recovery)
   * [Volume LAB](C/Week4/Lab)
 
 - **[Problem Set 5: Speller](/C/pset5/speller)** - [Speller Assignment](https://cs50.harvard.edu/x/2020/psets/5/speller/)
