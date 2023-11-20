@@ -25,14 +25,14 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
   * [readability](/C/Week2/Problem_Sets/readability)
   * [scrabble LAB](/C/Week2/Lab/scrabble)
 
-- **[Week 3](/C/Week3)** - [Assignments 3](https://cs50.harvard.edu/x/2023/psets/3/), - [LAB_2](https://cs50.harvard.edu/x/2023/labs/3/)
+- **[Week 3](/C/Week3)** - [Assignments 3](https://cs50.harvard.edu/x/2023/psets/3/), - [LAB_3](https://cs50.harvard.edu/x/2023/labs/3/)
   
   * [plurality](/C/Week3/Problem_Sets/plurality)
   * [runoff](/C/Week3/Problem_Sets/runoff)
   * [tideman](/C/Week3/Problem_Sets/tideman)
   * [Sort LAB](C/Week3/Lab/Sort)
 
-- **[Week 4](/C/Week4)** - [Assignments 4](https://cs50.harvard.edu/x/2023/psets/4/), [LAB_2](https://cs50.harvard.edu/x/2023/labs/4/)
+- **[Week 4](/C/Week4)** - [Assignments 4](https://cs50.harvard.edu/x/2023/psets/4/), [LAB_4](https://cs50.harvard.edu/x/2023/labs/4/)
   
   * filter
     + [less](/C/Week4/Problem_Sets/filter)
@@ -40,7 +40,8 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
   * [recovery](/C/Week4/Problem_Sets/recovery)
   * [Volume LAB](C/Week4/Lab)
 
-- **[Problem Set 5: Speller](/C/pset5/speller)** - [Speller Assignment](https://cs50.harvard.edu/x/2020/psets/5/speller/)
+- **[Week 5](/C/Week5)** - [Assignment 5](https://cs50.harvard.edu/x/2023/psets/5/), [LAB_4](https://cs50.harvard.edu/x/2023/labs/5/)
+  
   * [dictionary.c](/C/pset5/speller/dictionary.c)
 
 - **[Problem Set 6: Python](/Python/pset6/)** - [Assignments 6](https://cs50.harvard.edu/x/2020/psets/6/)
