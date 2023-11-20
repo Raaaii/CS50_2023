@@ -6,13 +6,13 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
 
 ## Table of Contents
 
-- **[Lab and Problem sets done in C](/C/Week1)** - [Assignments 1](https://cs50.harvard.edu/x/2020/psets/1/), - [LAB_1](https://cs50.harvard.edu/x/2023/labs/1/)
-  * [hello](/C/Week1/Problem_Set/hello)
+- **[Lab and Problem sets done in C](/C/Week1)** - [Assignments 1](https://cs50.harvard.edu/x/2023/psets/1/), - [LAB_1](https://cs50.harvard.edu/x/2023/labs/1/)
+  * [hello](/C/Week1/Problem_Sets/hello)
   * mario
-    + [less](/C/Week1/Problem_Set/mario/less)
-    + [more](/C/Week1/Problem_Set/mario/more)
-  * [cash](/C/Week1/Problem_Set/cash)
-  * [credit](/C/Week1/Problem_Set/crredit)
+    + [less](/C/Week1/Problem_Sets/mario/less)
+    + [more](/C/Week1/Problem_Sets/mario/more)
+  * [cash](/C/Week1/Problem_Sets/cash)
+  * [credit](/C/Week1/Problem_Sets/crredit)
   * [Population](/C/Week1/Lab/Population)
 
 - **[Problem Set 2: Crypto](/C/Week2/Problem_Set)** - [Assignments 2](https://cs50.harvard.edu/x/2020/psets/2/)
