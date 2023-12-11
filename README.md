@@ -59,6 +59,8 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
   * [Credit](/Python/Week6/Problem_Sets/credit)
   * [Readability](/Python/Week6/Problem_Sets/readability)
   * [DNA](/Python/Week6/Problem_Sets/dna)
+ 
+  * [World Cup LAB](/Python/Week6/Lab/World_Cup)
 
 
 
