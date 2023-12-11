@@ -62,12 +62,12 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
  
   * [World Cup LAB](/Python/Week6/Lab/World_Cup)
  
-- **[Week 7: SQL](/Python/Week6/)** - [Assignments 6](https://cs50.harvard.edu/x/2023/psets/7/), [LAB_6](https://cs50.harvard.edu/x/2023/labs/7/)
+- **[Week 7: SQL](/Python/Week6/)** - [Assignments 7](https://cs50.harvard.edu/x/2023/psets/7/), [LAB_7](https://cs50.harvard.edu/x/2023/labs/7/)
 - 
   * [FiftyVille](/SQL/Week7/Problem_Sets/fiftyville)
   * [Movies](/SQL/Week7/Problem_Sets/Movies)
  
-  * [Songs: LAB](/SQL/Week7/Lab/Songs)
+  * [Songs: LAB](/SQL/Week7/Lab/songs)
 
 
 
