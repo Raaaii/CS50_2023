@@ -49,7 +49,7 @@ Welcome to my repository, where I share my solutions to Harvard University's [CS
 
 - **[Lab and Problem sets done in Python](/Python)**
 
-- **[Week 6: ](/Python/Week6/)** - [Assignments 6](https://cs50.harvard.edu/x/2023/psets/6/), [LAB_6](https://cs50.harvard.edu/x/2023/labs/6/)
+- **[Week 6: PYTHON PROGRAMMING LANGUAGE ](/Python/Week6/)** - [Assignments 6](https://cs50.harvard.edu/x/2023/psets/6/), [LAB_6](https://cs50.harvard.edu/x/2023/labs/6/)
 - 
   * [Hello](/Python/Week6/Problem_Sets/hello)
   * Mario
